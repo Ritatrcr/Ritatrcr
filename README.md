@@ -1,8 +1,10 @@
 # Hello World, I'm Rita Trindade da Cruz <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="40px"></h4>
 
-## I'm a Computer Engineer & Web Developer 💻✨
+## I'm a Computer Engineer Student  💻✨
 
-<img align="center" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<!-- <img align="center" src="/Users/ritatrindadedacruz/Desktop/Personal/Github Landing Page/Ritatrcr/me.png" width="400px" /> -->
+![Female Coder](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF2ZXU4MDNxeTQzemhvczE4cnk1NDFhdXB2am1iaDVhdTZwNnNpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp)
+
 <br>
 
 ---
@@ -43,7 +45,7 @@ I thrive in dynamic environments where creativity and technical skills converge.
 ### GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritatrindade&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ritatrcr&show_icons=true" />
 </p>
 
 ---
@@ -52,5 +54,5 @@ I thrive in dynamic environments where creativity and technical skills converge.
 
 - **Name:** Rita Trindade da Cruz  
 - **Email:** ritatrindadedacruz@gmail.com  
-- **LinkedIn:** [Rita Trindade](https://linkedin.com/in/ritatrindade)  
+- **LinkedIn:** [Rita Trindade da Cruz](https://www.linkedin.com/in/ritatrindadedacruz/)  
 - **Interests:** Dancing 💃, Basketball 🏀, Chess ♟️, and Music 🎶.  
