@@ -1,27 +1,25 @@
-# Hello World, I'm Rita Trindade da Cruz <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="40px"></h4>
+# Hello World, I'm Rita <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="40px"></h4>
 
-## I'm a Computer Engineer Student  💻✨
+## I'm a Computer Engineer Student 💻✨
 
-<!-- <img align="center" src="/Users/ritatrindadedacruz/Desktop/Personal/Github Landing Page/Ritatrcr/me.png" width="400px" /> -->
-![Female Coder](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF2ZXU4MDNxeTQzemhvczE4cnk1NDFhdXB2am1iaDVhdTZwNnNpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp)
 
-<br>
-
----
 
 ## Welcome to my GitHub! 🚀
 I create projects to learn, explore, and innovate while solving real-world challenges. Let's build something amazing together! 
 
----
+
 
 ### Who am I? 👩‍💻
-Hello, I'm Rita! Based in Colombia, I’m an enthusiastic computer engineer with a passion for using technology to make a positive impact. Currently, I work in web development and user-centered design, collaborating on projects that bridge the gap between technology and real-world needs.
+Hello, I'm Rita! Portuguese. Based in Colombia, I’m a passionate Computer Engineering student at La Sabana University. Currently, I serve as the **President of IEEE Unisabana**, leading impactful projects and fostering innovation within the tech community. 
+
+✨ **What I Love:**
+- Designing user experiences (UI/UX) and crafting responsive web designs.
+- Exploring **cybersecurity** and **software architecture**.
+- Solving challenges through collaboration and leadership.
 
 ✨ **Key Projects:**
-- Developed a web solution to improve dietary plans for individuals with rare diseases like Prader-Willi Syndrome.
-- Built applications to assist clinics in patient care and medication reminders.
-
-I thrive in dynamic environments where creativity and technical skills converge. Let’s collaborate and create something impactful!
+- **MoveU:**  
+  [GitHub Repository](https://github.com/DSAW-2024-2/proyecto-final-fe-ritinhalamaspro.git)
 
 ---
 
@@ -53,6 +51,6 @@ I thrive in dynamic environments where creativity and technical skills converge.
 ### About Me 📝
 
 - **Name:** Rita Trindade da Cruz  
-- **Email:** ritatrindadedacruz@gmail.com  
+- **Email:** [ritatrindadedacruz@gmail.com](mailto:ritatrindadedacruz@gmail.com)  
 - **LinkedIn:** [Rita Trindade da Cruz](https://www.linkedin.com/in/ritatrindadedacruz/)  
 - **Interests:** Dancing 💃, Basketball 🏀, Chess ♟️, and Music 🎶.  
